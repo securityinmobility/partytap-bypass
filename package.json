@@ -1,0 +1,17 @@
+{
+  "name": "partytap-bypass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bech32": "^2.0.0",
+    "browserify": "^17.0.0",
+    "esmify": "^2.1.1",
+    "qr-scanner": "^1.4.2"
+  }
+}
